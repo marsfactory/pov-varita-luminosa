@@ -1,0 +1,9 @@
+"Id";"Identificador";"Empaquetado";"Cantidad";"Identificación";"Suministrador y ref";
+1;"REF**,REF**,REF**,REF**";"MountingHole_2.5mm";4;"MountingHole_2.5mm";;;
+2;"Ref**";"POV";1;"Val**";;;
+3;"REF**";"Symbol_Danger_CopperTop_Big";1;"Symbol_Danger_CopperTop_Big";;;
+4;"BATERIA 9V";"TerminalBlock_bornier-2_P5.08mm";1;"Conn_01x02_Female";;;
+5;"A1";"Arduino_Nano";1;"ARDUINO NANO";;;
+6;"D1,D2,D3,D4,D5,D6,D7,D8,D9,D10,D11,D12,D13,D14,D15,D16,D17,D18,D19,D20";"LED_D5.0mm";20;"LED";;;
+7;"R1,R2,R3,R4,R5,R6,R7,R8,R9,R10,R11,R12,R13,R14,R15,R16,R17,R18,R19,R20";"R_Axial_DIN0207_L6.3mm_D2.5mm_P10.16mm_Horizontal";20;"R";;;
+8;"SWITCH";"EG2211A";1;"EG2211A";;;
